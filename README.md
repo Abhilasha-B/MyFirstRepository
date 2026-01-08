@@ -1,4 +1,6 @@
 # MyFirstRepository
-Java
-Selenium Webdriver
-DS & Algorithms
+
+## Tech Stack
+- Java
+- Selenium WebDriver
+- TestNG
