@@ -1,2 +1,4 @@
 # MyFirstRepository
-This repository will have JAVA DS Algorithm Selenium 
+Java
+Selenium Webdriver
+DS & Algorithms
